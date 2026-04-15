@@ -20,5 +20,6 @@ The Pancha Bhoota Temple Guide App is a simple React Native mobile application t
 - TypeScript
 
 ---
+<img width="508" height="285" alt="image" src="https://github.com/user-attachments/assets/788e82a5-d466-40c9-b60c-2dbbae194ccf" />
 
 ## 📂 Project Structure
